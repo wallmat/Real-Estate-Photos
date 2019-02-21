@@ -17,7 +17,7 @@ hand side with Price, location, and features with place holder text.
 
 ## About
 Made in Unity 2018.3.3f1<br />
-Written in C#
+Written in C# <br />
 Art: None, this was expected to be changed to match the look of a company
 
 ## What I learned
